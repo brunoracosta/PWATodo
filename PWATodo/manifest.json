@@ -4,8 +4,8 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "https://brunoracosta.github.io/PWATodo/",
-  "start_url": "https://brunoracosta.github.io/PWATodo/",
+  "scope": "/",
+  "start_url": "/?utm_source=homescreen",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
